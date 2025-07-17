@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/www-testmonitor.com-green)](https://www.testmonitor.com)
 
-TestMonitor is an end-to-end test management platform that helps teams plan, design, and manage both automated and manual software testing with ease.
+TestMonitor is a complete test management platform for designing, planning, and managing manual and automated software testing — all in one place.
 
 We believe in the power of community and open collaboration. While our core application — [TestMonitor](https://www.testmonitor.com) — is a commercial SaaS product, we actively support and contribute to the open source ecosystem.
 
@@ -12,9 +12,9 @@ At TestMonitor, we use a wide variety of open source tools in our daily developm
 
 This GitHub organization hosts:
 
-- 🧰 Laravel and PHP packages
-- 🧪 Testing integrations and CLI tools
-- 📦 Libraries and SDKs used in or alongside TestMonitor
+- 📦 Laravel and PHP packages used in or inspired by our main application
+- 🔌 API client wrappers for integrations with tools like ClickUp, Azure DevOps, and Jira
+- 🛠️ Supporting libraries and utilities that help streamline development or testing workflows
 
 All repositories are maintained by our engineering team and are released under permissive open source licenses unless otherwise noted.
 
